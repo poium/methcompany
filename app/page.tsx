@@ -161,7 +161,20 @@ export default function Home() {
             className="mb-5"
             priority
           />
-          <p className="mb-6 text-sm text-zinc-500">Something is brewing. We build.</p>
+          <p className="mb-4 max-w-lg text-base leading-relaxed text-zinc-400">
+            We&apos;re a team of 7 developers passionate about crypto. We create and launch interesting projects—from games and DeFi to social tools and AI experiments.
+          </p>
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
           <div className="flex items-center gap-6">
             <a
               href="https://t.me/methcompany"
